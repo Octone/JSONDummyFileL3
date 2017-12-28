@@ -3,7 +3,7 @@
 		{
 			"ID":"AX1",
 			"DATA":[{
-				"LAYOUT":"2",
+				"LAYOUT":"1",
 				"CONTENT":[{
 					"DATE":"11/12/2017",
 					"START":"13.00",
@@ -100,7 +100,7 @@
 					"TYPE":"IMAGE"
 				}]
 			},{
-				"LAYOUT":"1",
+				"LAYOUT":"2",
 				"CONTENT":[{
 					"DATE":"11/12/2017",
 					"START":"13.00",
@@ -126,14 +126,14 @@
 					"TYPE":"IMAGE"
 				}]
 			},{
-				"LAYOUT":"2",
+				"LAYOUT":"3",
 				"CONTENT":[{
 					"DATE":"11/12/2017",
 					"START":"13.00",
 					"END":"14.00",
 					"PRIORITY":"NORMAL",
-					"URL":"https://wallpaperscraft.com/image/switzerland_alps_mountains_night_beautiful_landscape_99817_1080x1920.jpg",
-					"TYPE":"IMAGE"
+					"URL":"https://archive.org/download/Popeye_forPresident/Popeye_forPresident_512kb.mp4",
+					"TYPE":"VIDEO"
 				},
 				{
 					"DATE":"11/12/2017",
