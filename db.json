@@ -79,7 +79,8 @@
 					"PRIORITY":"NORMAL",
 					"URL":"http://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p_1mb.mp4",
 					"TYPE":"VIDEO"
-				}{
+				},
+				{
 					"DATE":"11/12/2017",
 					"START":"13.00",
 					"END":"14.00",
