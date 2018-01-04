@@ -43,7 +43,7 @@
 					"START":"13.00",
 					"END":"14.00",
 					"PRIORITY":"NORMAL",
-					"URL":"https://wallpaperscraft.com/image/forest_lake_reflection_island_mist_97668_1920x1080.jpg",
+					"URL":"http://via.placeholder.com/960x1080",
 					"TYPE":"IMAGE"
 				},
 				{
@@ -51,7 +51,7 @@
 					"START":"13.00",
 					"END":"15.00",
 					"PRIORITY":"NORMAL",
-					"URL":"https://wallpaperscraft.com/image/sunset_winter_trees_landscape_86143_1920x1080.jpg",
+					"URL":"http://via.placeholder.com/1280x720",
 					"TYPE":"IMAGE"
 				},
 				{
@@ -59,7 +59,7 @@
 					"START":"13.00",
 					"END":"18.00",
 					"PRIORITY":"NORMAL",
-					"URL":"https://wallpaperscraft.com/image/mountains_sky_bali_sunrise_kintamani_indonesia_95497_1920x1080.jpg",
+					"URL":"http://via.placeholder.com/960x540",
 					"TYPE":"IMAGE"
 				},
 				{
@@ -67,7 +67,7 @@
 					"START":"13.00",
 					"END":"17.00",
 					"PRIORITY":"HIGH",
-					"URL":"https://wallpaperscraft.com/image/everest_mountain_sky_tops_96976_1920x1080.jpg",
+					"URL":"http://via.placeholder.com/600x400",
 					"TYPE":"IMAGE"
 				}]
 			},{
